@@ -1,0 +1,177 @@
+/* style.css */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.container{ 
+    display: flex;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    height: 100%;
+    width: 100%
+}
+
+.title {
+    font-size: 30px;
+    width: 30%;
+    height: 100%;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.main_content {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    height: 80%;
+    width: 100%
+}
+
+.board {
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    height: 100%;
+
+}.stage_container {
+    height: auto;
+    width: 50%;
+    border: 2px solid gray;
+}
+
+.sidebar {
+    font-size: 20px;
+    height: 100%;
+    width: 30%;
+    margin-right: 100px;
+}
+
+.sidebar > * {
+    margin-bottom: 30px;
+}
+
+.next_block {
+    height: 20%;
+    margin-top: 0;
+}
+
+.block_box {
+    height: 80%;
+    border: 2px solid black;    
+}
+
+.level {
+    height: 10%;
+}
+
+.score {
+    height: 10%;
+}
+
+.high_score {
+    height: 10%;
+}
+
+.manual_title {
+    height: 35%;
+}
+
+.manual {
+    height: 50%;
+    border: 2px solid black;
+}
+
+.header {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 1rem;
+}
+
+#popup {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    left: 0;
+    top: 0;
+    color: #fff;
+    font-size: 50px;
+    z-index: 1;
+}
+
+.popup>button {
+    padding: 0.5rem 1rem;
+    color: #fff;
+    background-color: salmon;
+    border: none;
+    cursor: pointer;
+    transition: ease-in, 300ms;
+}
+
+.popup>button:hover {
+    transform: scale(1.1);
+}
+
+.stage {
+    margin: 0 auto;
+    outline: 2px solid white;
+    background-color: rgba(134, 134, 134, 0.5);
+}
+
+.stage>tr {
+    width: 100%;
+    height: 25px;
+}
+
+.stage>tr>td {
+    width: 25px;
+    height: 25px;
+    outline: 1px solid white;
+}
+
+/* block color */
+
+.square {
+    background-color: #cc0b10;
+}
+
+.L {
+    background-color: #369a30;
+}
+
+.L2 {
+    background-color: #1265a6;
+}
+
+.I {
+    background-color: #5ab0bd;
+}
+
+.Z {
+    background-color: #da8400;
+}
+
+.Z2 {
+    background-color: #894085;
+}
+
+.H {
+    background-color: #ebd500;
+}
