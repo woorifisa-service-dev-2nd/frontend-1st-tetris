@@ -3,7 +3,6 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 프로젝트 및 팀원소개 </h2>
-		<br>
 			<li>
 				프로젝트 : Most Challenging Tetris
 			</li>
@@ -26,7 +25,8 @@
 		<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"> 🔥 기능 시연 </h2>
 	    	<img src="https://github.com/woorifisa-service-dev-2nd/frontend-5st-tetristeam/assets/66014764/4061ed9c-9bbe-4896-b35e-c53853a91b0b">
 	<br>
-		<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"> 🎯 핵심 기능 설명 및 구현 방법 </h2>
+ 	
+<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"> 🎯 핵심 기능 설명 및 구현 방법 </h2>
 	    	<li>Wiki Page</li>
 		https://github.com/woorifisa-service-dev-2nd/frontend-5st-tetristeam/wiki/%08JavaScript
 	<br>
@@ -80,7 +80,7 @@
 	<br>
  	
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
