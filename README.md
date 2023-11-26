@@ -29,7 +29,7 @@
 		<br>	
 		<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"> 🚀 트러블 슈팅 </h2>
  		<br>
-		<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"> ✨ 느낀점 ✨</h2>
+		<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"> ✨ 느낀점 </h2>
 	    	<li>우지음 : 기능 구현을 어떻게 할지 모르겠어서 구글링해서 방법을 참고 했는데, 남의 코드 이해하는게 가장 어려웠다.</li>
 	    	<li>안선영 : Jascript ES6 버전에서 Keyboard이벤트가 지원하지 않는 기능이 있어.
 지원하는 방식을 찾아서 코드를 새로 짜보았는데, 프로퍼티 에러가 계속 발생하였습니다. 결국 기존 코드 방식을 사용해야 했던 아쉬움이 남았습니다.</li>
