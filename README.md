@@ -27,7 +27,9 @@
 	    	<img src="https://github.com/woorifisa-service-dev-2nd/frontend-5st-tetristeam/assets/66014764/4061ed9c-9bbe-4896-b35e-c53853a91b0b">
 	<br>
 		<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"> 🎯 핵심 기능 설명 및 구현 방법 </h2>
-		<br>	
+	    	<li>Wiki Page</li>
+		https://github.com/woorifisa-service-dev-2nd/frontend-5st-tetristeam/wiki/%08JavaScript
+	<br>
 		<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"> 🚀 트러블 슈팅 </h2>
 	    	<h3>- 블록의 위치 이동시 이동이 가능한 자리인지 판단의 어려움</h3>
 		<p>이동중인 블록, 고정된 블록을 판단하는 요소를 어떻게 지정할지 고민이었고, 현재 움직이고있는 Element의 클래스로 moving과 finish를 추가하고 제거하는 과정을 통해 색상을 변경 시킴으로써 해결하였습니다.</p><br>
@@ -42,7 +44,7 @@
 		    });
       	<br>
        
-<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"></h2><br>
+<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"></h2>
 
 <h3>- 방향 조작 코드</h3>
 	    	<p>Keycode를 활용하여 작성하고자 했지만, Javascript ES6 버전에서 keyboard 이벤트가 지원하지 않음, keydown이벤트를 사용하여 ArrowRight, ArrowLeft, ArrowDown, ArrowUp을 사용하여 좌, 우, 하, 상(블록 방향 변경), Spacebar(dropBlock) 키보드로 조작할 수 있도록 구현하였다.</p><br>
