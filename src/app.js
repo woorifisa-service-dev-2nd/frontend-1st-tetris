@@ -72,7 +72,21 @@ const makeNextBlock = () => {
     const blockArray = Object.entries(Blocks)
     const randomIndex = Math.floor(Math.random() * blockArray.length)
     nextBlocks.push(blockArray[randomIndex][0])
+    renderNextBloclk()
 }
+
+// 다음 블럭 이미지
+const renderNextBloclk = () => {
+    const nextBlcok = document.querySelector('.block_box')
+    let temp = []
+
+    temp.push(
+        `<img src="./img/${nextBlocks[0]}.png" alt=${nextBlocks[0]}"/>`
+    )
+
+    nextBlcok.innerHTML = temp.join('')
+}
+
 
 // 바닿에 닿은 블럭 finish 처리
 const finishBlock = () => {
@@ -220,11 +234,9 @@ const init = () => {
     makeNextBlock();
     makeGround()
     makeNewBlock()
+    renderNextBloclk()
 }
 
 init()
 
 restartButton.addEventListener('click', restart)
-
-
-
