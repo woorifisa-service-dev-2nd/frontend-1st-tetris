@@ -24,18 +24,15 @@
 			</ul>
    	<br>
 		<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"> 🔥 기능 시연 </h2>
-
+	<br>
 		<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"> 🎯 핵심 기능 설명 및 구현 방법 </h2>
-			<ul>
-	 			<li>
-		 		<li>
-		 		
-	 		</ul>
+		<br>	
 		<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"> 🚀 트러블 슈팅 </h2>
- 		
+ 		<br>
 		<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"> ✨ 느낀점 ✨</h2>
-	  
-    <div style="text-align: left;">
+	<br>
+ 	
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
