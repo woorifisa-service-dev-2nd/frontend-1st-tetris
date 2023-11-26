@@ -24,6 +24,7 @@
 			</ul>
    	<br>
 		<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"> 🔥 기능 시연 </h2>
+	    	<img src="https://github.com/woorifisa-service-dev-2nd/frontend-5st-tetristeam/assets/66014764/4061ed9c-9bbe-4896-b35e-c53853a91b0b">
 	<br>
 		<h2 style="border-bottom: 1px solid #d8dee3; color: #282d33;"> 🎯 핵심 기능 설명 및 구현 방법 </h2>
 		<br>	
