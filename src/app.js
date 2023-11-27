@@ -7,7 +7,7 @@ const DURATION = 100;
 let movingBlock = {};
 let nextBlocks = [];
 let blockInfo = {};
-let downInterval;
+let downInterval;/////////
 
 const stage = document.querySelector('.stage')
 const popup = document.getElementById('popup')
